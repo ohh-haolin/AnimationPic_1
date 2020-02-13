@@ -4,6 +4,9 @@
 
 本组共**2088**张高清动漫图片，每张图片保证 length > width > 1200px，并保证每张 size<1.5MB, 按照 `.jpeg` 格式保存
 
+图片预览网址：https://ohh-haolin.github.io/AnimationPic_1/test_page.html
+刷新即可看到不同的图片
+
 ### 用途
 
 #### 不得**商用**
