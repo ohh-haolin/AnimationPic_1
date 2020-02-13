@@ -10,12 +10,12 @@
 
 1. 用于训练GAN网络
 2. 随机动漫图图床
-> 图床接口：https://ohh-haolin.github.io/AnimationPic_1/
+> 图床接口：https://ohh-haolin.github.io/AnimationPic_1/index.html
 
 ### 来源
 
 1. 网络上的动漫图片接口爬取
-2. Pixiv部分每日榜单
+2. Pixiv部分每日榜单爬取
 
 > 由于图片众多，未明确表明作者，请理解！
 
