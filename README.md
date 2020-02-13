@@ -9,7 +9,7 @@
 #### 不得**商用**
 
 1. 用于训练GAN网络
-2. 随机动漫图图床
+2. 随机动漫图图床(使用[jsdelivr](https://www.jsdelivr.com/)经行加速)
 > 图床接口：https://ohh-haolin.github.io/AnimationPic_1/index.html
 
 ### 来源
